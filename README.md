@@ -1,1 +1,1 @@
-School project. Implementation of and IRC (Chat) using C.
+School project. Implementation of an IRC (Chat) using C.
