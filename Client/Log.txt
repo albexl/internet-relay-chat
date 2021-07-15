@@ -1,0 +1,28 @@
+/connect 127.0.0.1 8080
+/connect 127.0.0.1 8080
+/nick solrac
+/nick admin
+/nick albeXL
+/private admin sdfsfs sf
+/private solrac sgfsdfsf sd fs sfssf
+/private USER1 sdfsffdf
+/list
+/list
+/disconnect
+/connect 127.0.0.1 8080
+/nick albeXL
+/nick solrac
+/connect 127.0.0.1 8080
+/exit
+/connect 127.0.0.1 8080
+/connect 127.0.0.1 8080
+/connect 127.0.0.1 8081
+/connect 127.0.0.1 8081
+/connect 127.0.0.1 8081
+/connect 127.0.0.1 8081
+/connect 127.0.0.1 8081
+/connect 127.0.0.1 8080
+/exit
+/connect 127.0.0.1 8080
+/connect 127.0.0.1 8080
+/exit

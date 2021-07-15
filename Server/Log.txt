@@ -1,0 +1,21 @@
+/start 8080
+/nick solrac
+/nick admin
+/nick albeXL
+/list
+/list
+/disconnect
+/nick albeXL
+/nick solrac
+/kick USER3
+/kick solrac
+/start 8080
+/stop
+/start 8080
+/start 8081
+/list
+/ban 127.0.0.1
+/unban 127.0.0.1
+/start 8080
+/exit
+/exit

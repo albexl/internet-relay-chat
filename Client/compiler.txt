@@ -1,0 +1,1 @@
+gcc -c command.c; gcc -c utils.c; gcc client.c command.o utils.o -o client
